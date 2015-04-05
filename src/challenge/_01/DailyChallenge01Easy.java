@@ -1,9 +1,7 @@
 package challenge._01;
 
 import java.io.File;
-import java.io.FileOutputStream;
 import java.io.FileWriter;
-import java.io.FilterOutputStream;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
