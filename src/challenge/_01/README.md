@@ -1,4 +1,4 @@
-#Challenge: 0
+#Challenge: 01
 
 http://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/
 
@@ -10,4 +10,4 @@ your name is (blank), you are (blank) years old, and your username is (blank)
 
 for extra credit, have the program log this information in a file to be accessed later.
 
-###Status: Incomplete
+###Status: Easy: Complete
