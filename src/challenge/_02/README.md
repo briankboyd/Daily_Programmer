@@ -9,4 +9,4 @@ Hello, coders! An important part of programming is being able to apply your prog
 EXTRA CREDIT: make the calculator have multiple functions! Not only should it be able to calculate F = M * A, but also A = F/M, and M = F/A!
 
 
-###Status: Incomplete
+###Status: Complete
